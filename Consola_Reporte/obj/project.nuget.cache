@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "noS0zv2UOs2O1IsQTcjculgVgFSvyyxcSC1v45oyC3D/yQMPIzk9eCJz4z0yexvaUsWT1PP+9DUYZvG7E+rh2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Programcn\\C#\\Proyectos_UPN_etc\\Reporte_pdf_C#\\Consola_Reporte\\Consola_Reporte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\questpdf\\2022.12.1\\questpdf.2022.12.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}

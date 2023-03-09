@@ -1,0 +1,11 @@
+Paso: 
+
+-> https://www.questpdf.com/document-previewer.html
+
+   _ QuestPDF es una biblioteca .NET de código abierto para la generación de PDF. 
+     Utilizando varios patrones y prácticas nuevos, QuestPDF busca resolver los 
+     desafíos inherentes a este proceso.
+
+
+-> En (Dependencias) -> instalar en ADMINISTRADOR paquetes de NUGET...
+   _ QuestPDF.
