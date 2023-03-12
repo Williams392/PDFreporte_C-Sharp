@@ -50,10 +50,10 @@ namespace pdf_Reporte.Controllers
 
                         row.RelativeItem().Column(col =>
                         {
-                            col.Item().AlignCenter().Text("Nicole Zuñiga SAC").Bold().FontSize(14);
-                            col.Item().AlignCenter().Text("Jr. Ala meda N392 - Lima").FontSize(9);
+                            col.Item().AlignCenter().Text("Williams Valle SAC").Bold().FontSize(14);
+                            col.Item().AlignCenter().Text("Jr. Comas N392 - Lima").FontSize(9);
                             col.Item().AlignCenter().Text("994 468 271 | 01 587 492").FontSize(9);
-                            col.Item().AlignCenter().Text("codigo@gmail.com").FontSize(9);
+                            col.Item().AlignCenter().Text("valle392@gmail.com").FontSize(9);
                         });
 
                         row.RelativeItem().Column(col =>
